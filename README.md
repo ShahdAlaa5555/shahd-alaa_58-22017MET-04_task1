@@ -2,7 +2,7 @@
 
 **Name:** Shahd Alaa Ahmed  
 **ID:** 58-22017  
-**Major / Lab:** <MET> / 01
+**Major / Lab:** <MET> / 04
 
 ## Part C — What I did
 
